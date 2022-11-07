@@ -1,0 +1,6 @@
+# Tarea N°1: Consumir API y traer algunas imágenes de las 5.000 que están alojadas.
+
+- Datos que debemos mostrar: ('url' + 'thumbnailUrl').
+- URL de extracción: https://jsonplaceholder.typicode.com/photos
+
+
